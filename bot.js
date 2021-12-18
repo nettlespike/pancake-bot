@@ -24,7 +24,7 @@ for (const file of commandFiles) {
 client.on("ready", () => { //once the bot runs
     console.log("Connected as " + client.user.tag); //prints to ur console
     console.log(new Date().toLocaleString()); //prints the date to ur console
-    client.user.setActivity("Flipping Pancakes"); //our activity 
+    client.user.setActivity("Damn brat, I'll chew"); //our activity 
 });
   
 client.login(config.token);
