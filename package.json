@@ -1,0 +1,25 @@
+{
+    "name": "pancake-bot",
+    "version": "1.0.0",
+    "description": "P5 RP",
+    "main": "bot.js",
+    "scripts": {
+      "start": "node ."
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/nettlespike/pancake-bot.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/nettlespike/pancake-bot/issues"
+    },
+    "homepage": "https://github.com/nettlespike/pancake-bot#readme",
+    "dependencies": {
+      "discord.js": "^13.3.1",
+      "nodemon": "^2.0.14"
+    }
+  }
+  
